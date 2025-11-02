@@ -9,7 +9,7 @@
 
 
 #Algoritma
-bahan = [2000, 5000, 3000]  # [kopi, air, susu] 
+bahan = [2000, 5000, 3000]  # [kopi (gram), air (ml), susu (ml)] 
 
 
 # resep kopi: [kopi, air, susu]
@@ -82,6 +82,7 @@ while x == 1:
    
     else:
         print("*ERROR* Kode yang dimasukkan tidak valid")
+
 
 
 print("Terimakasih telah menggunakan mesin kopi")                                                               # Terminasi
